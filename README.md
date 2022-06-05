@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello! I am David Kragbé <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+  Hello! I am David Kragbé 
 </h1>
 
 <p align="center"> I love to create/contribute to products that deliver outstanding experiences to their users. <br/> I believe frontend developement and machine learning are of utmost importance to achieve this. </p>
