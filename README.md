@@ -27,7 +27,7 @@
 
 <br/>
 
-- 💼 Data scientist intern at Shift Technology
+- 💼 Frontend Engineer Intern at Spotify
 - 🔭 Master student studying Machine Learning and Interaction Programming at KTH Royal Institute of Technology
 - ⚙️ I work with: `.js(x)` , `.ts(x)` , `.html` , `.css` ,  `.py` , `.cs` , `.java`
 - 🌱 I’m currently learning [Microservices on Udemy](https://www.udemy.com/course/microservices-with-node-js-and-react/)
